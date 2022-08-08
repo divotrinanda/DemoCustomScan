@@ -1,0 +1,188 @@
+#body{
+    background-color:rgb(208, 224, 224);
+}
+
+.comp_banner{
+    position:relative;
+    margin-bottom:0%;
+}
+
+.main_menu{
+    text-align:center;
+    align-content: center;
+    background-color:#03039fff;
+    display:inline-block;
+    width:800px;
+    border-bottom: 3px solid #fff;
+}
+
+.footer1{
+    display:block;
+    background-color:#03039fff;
+    text-align:center;
+    width:800px;
+}
+
+.img {
+    height: 180px;
+    width: 180px;
+    padding: 25px;
+    padding-bottom: 0px;
+}
+
+.label{
+    padding-right:100px;
+}
+
+.label_doc{
+    padding-right:100px;
+}
+
+.label_nama {
+    padding-right: 100px;
+}
+
+.opt_spacing{
+    padding-right:40px;
+}
+
+.opt_spacing_doc{
+    padding-right:210px;
+    padding-top:2px;
+    padding-bottom:2px;
+}
+
+.form_spacing{
+    padding-top:30px;
+    padding-bottom:3px;
+}
+
+.form_spacing_letter_no{
+    width:570px;
+    padding-top:20px;
+    margin-right:1px;
+    margin-left:1px;
+    padding-left:5px;
+    padding-bottom:3px;
+}
+
+
+
+.form_spacing_tahun {
+    width: 570px;
+    padding-top: 20px;
+    margin-right: 1px;
+    margin-left: -20px;
+    padding-left: 0px;
+    padding-bottom: 3px;
+}
+
+
+.form_spacing_bulan {
+    width: 570px;
+    padding-top: 20px;
+    margin-right: 1px;
+    margin-left: -20px;
+    padding-left: 0px;
+    padding-bottom: 3px;
+}
+
+.form_spacing_tanggal {
+    width: 570px;
+    padding-top: 20px;
+    margin-right: 1px;
+    margin-left: 0px;
+    padding-left: 0px;
+    padding-bottom: 3px;
+}
+
+.opt_spacing_tanggal {
+    padding-right: 70px;
+}
+
+.label_tanggal {
+    padding-right: 90px;
+}
+
+.form_spacing_namabadan {
+    width: 570px;
+    padding-top: 20px;
+    margin-right: 1px;
+    margin-left: 0px;
+    padding-left: 50px;
+    padding-bottom: 3px;
+}
+
+.letter_no_spacing_namabadan {
+    padding-right: 55px;
+    margin-left: 8px;
+}
+
+.form_spacing_nodokumen {
+    width: 570px;
+    padding-top: 20px;
+    margin-right: 1px;
+    margin-left: 0px;
+    padding-left: 50px;
+    padding-bottom: 3px;
+}
+
+.letter_no_spacing_nodukemen {
+    padding-right: 27px;
+    margin-left: 8px;
+}
+
+.form_spacing_tahun_pajak {
+    width: 570px;
+    padding-top: 20px;
+    margin-right: 1px;
+    margin-left: -5px;
+    padding-left: 0px;
+    padding-bottom: 20px;
+}
+
+.letter_no_spacing_tahun_pajak {
+    padding-right: 60px;
+    margin-left: 8px;
+}
+
+
+.letter_no_spacing{
+    padding-right:100px;
+    margin-left:30px;
+}
+
+
+
+.text_width {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 100px;
+}
+
+.div_button{
+    padding-bottom:10px;
+}
+
+.button_link{
+    padding-right:360px;
+    color:white;
+}
+
+.button_style{
+    border-radius:5px;
+    background-color:#c40000;
+    color:white;
+    font-family:Arial;
+    font-weight:300px;
+    font-size:16pt;
+    cursor:pointer;
+    padding-right:10px;
+    padding-left:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+
+.arrow_style{
+    font-weight: bold;
+}
