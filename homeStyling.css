@@ -91,7 +91,7 @@
     width: 570px;
     padding-top: 20px;
     margin-right: 1px;
-    margin-left: 0px;
+    margin-left: -20px;
     padding-left: 0px;
     padding-bottom: 3px;
 }
@@ -136,9 +136,9 @@
     width: 570px;
     padding-top: 20px;
     margin-right: 1px;
-    margin-left: -5px;
+    margin-left: -20px;
     padding-left: 0px;
-    padding-bottom: 20px;
+    padding-bottom: 3px;
 }
 
 .letter_no_spacing_tahun_pajak {
